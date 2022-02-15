@@ -23,7 +23,7 @@ The program will create live tool widget to easily collect, train, and test.
 ### Live Demonstration
 Click for video
 
-<a href="https://github.com/qtn00/nvidia-ai-specialist/blob/main/Classification_Demonstration.mp4"><p align = "center">
+<a href="https://youtu.be/_bjiPQDDT48"><p align = "center">
   <img src="https://github.com/qtn00/nvidia-ai-specialist/blob/main/mask_off.jpg">
   </p></a>
   
