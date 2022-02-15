@@ -5,5 +5,8 @@
 #
 Following through the program using JupyterLab Notebook and execute all the cells will create a program to classify a person having a mask on or off. The project use Jetson Nano with a USB camera to capture datas. 
 The program will create live tool widget to easily collect, train, and test. 
+
+- [Image Classigying People with mask](qtn_mask_classification.ipynb)
 #
+
 ## Example from the result
