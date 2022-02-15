@@ -10,3 +10,21 @@ The program will create live tool widget to easily collect, train, and test.
 #
 
 ## Example from the result
+### Mask on 
+<p align = "center">
+  <img src="https://github.com/qtn00/nvidia-ai-specialist/blob/main/mask_on.jpg" width ="50%">
+</p>
+
+### Mask off
+<p align = "center">
+  <img src="https://github.com/qtn00/nvidia-ai-specialist/blob/main/partially_mask.jpg" width = "50%">
+  </p>
+
+### Live Demonstration
+Click for video
+
+<a href="https://github.com/qtn00/nvidia-ai-specialist/blob/main/Classification_Demonstration.mp4"><p align = "center">
+  <img src="https://github.com/qtn00/nvidia-ai-specialist/blob/main/mask_off.jpg">
+  </p></a>
+  
+  
