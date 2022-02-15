@@ -21,7 +21,7 @@ The program will create live tool widget to easily collect, train, and test.
   </p>
 
 ### Live Demonstration
-Click for video
+Click for youtube video demonstration
 
 <a href="https://youtu.be/_bjiPQDDT48"><p align = "center">
   <img src="https://github.com/qtn00/nvidia-ai-specialist/blob/main/mask_off.jpg">
